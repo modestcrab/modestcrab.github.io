@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 My experiment to improve my conversion from Google are now providing some results.
 

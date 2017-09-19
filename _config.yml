@@ -1,9 +1,7 @@
 # Site settings
 title: Modest Crab - Jill Burnham
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My log on life and tech, travel.I am also a Music buff. Social media ninja. General coffee maven. Organizer. Total pop culture evangelist. yada yada ...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://modestcrab.github.io" # the base hostname & protocol for your site
 

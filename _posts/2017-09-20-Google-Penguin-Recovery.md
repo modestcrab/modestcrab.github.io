@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Earlier, it was [Panda](https://en.wikipedia.org/wiki/Google_Panda) and now it is Penguin that has kept many Internet marketers on their toes. With the recent update, the search engine giant Google has showcased its weeding spree. This update has restrained several websites to appear on the search engine result pages and have become the reason for the turmoil in the realm of SEO.
 
